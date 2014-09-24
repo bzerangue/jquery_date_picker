@@ -17,9 +17,9 @@ Automatically enables the [jQuery Date Picker](http://docs.jquery.com/UI/Datepic
 
 ## Notes
 
-* The date format is currently set as the Symphony default: 20 January 2009. The format can be changed by editing the initialise.js file in accordance with the formatting instructions at: [http://docs.jquery.com/UI/Datepicker/%24.datepicker.formatDate](http://docs.jquery.com/UI/Datepicker/%24.datepicker.formatDate)
+* The date format is currently set as the Symphony default: 20 January 2014. The format can be changed by editing the initialise.js file in accordance with the formatting instructions at: [http://docs.jquery.com/UI/Datepicker/%24.datepicker.formatDate](http://docs.jquery.com/UI/Datepicker/%24.datepicker.formatDate)
 
-* The date picker is styled using the default jQuery UI 'Cupertino' theme.
+* The date picker is styled using the default jQuery UI 'Smoothness' theme.
 
 ## Changelog ##
 - **1.5:** Updated jQueryUI and made it compatible with Symphony 2.3.3 and higher. 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<extension id="jquery_date_picker" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+<extension id="jquery_date_picker" status="released" xmlns="http://getsymphony.com/schemas/extension/1.0">
 	<name>jQuery Date Picker</name>
 	<description>Add date picker to all Date fields</description>
 	<repo type="github">https://github.com/symphonists/jquery_date_picker</repo>
-	<url type="discuss">http://symphony-cms.com/discuss/thread/626/</url>
+	<url type="discuss">http://getsymphony.com/discuss/thread/626/</url>
 	<types>
 		<type>Interface</type>
 	</types>
@@ -13,7 +13,7 @@
 		</author>
 	</authors>
 	<releases>
-	        <release version="1.4" date="2014-09-24" min="2.3.3">
+	        <release version="1.5" date="2014-09-24" min="2.3.3">
 	        	- update jqueryui
 	        	- moved location of javascript in head so it won't conflict with preferences page.
 	        </release>

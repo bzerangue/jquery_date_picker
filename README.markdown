@@ -1,9 +1,9 @@
 # jQuery Date Picker #
 
-Version: 1.4  
-Author: Max Wheeler (max@makenosound.com)  
-Build Date: 2012-05-08
-Requirements: Symphony 2.3
+Version: 1.5  
+Author: Max Wheeler (max@makenosound.com) / Symphonists  
+Build Date: 2014-09-24
+Requirements: Symphony 2.3.3 and higher
 
 Automatically enables the [jQuery Date Picker](http://docs.jquery.com/UI/Datepicker) on the "Publish" screen in the Symphony administration.
 
@@ -22,7 +22,7 @@ Automatically enables the [jQuery Date Picker](http://docs.jquery.com/UI/Datepic
 * The date picker is styled using the default jQuery UI 'Cupertino' theme.
 
 ## Changelog ##
-
+- **1.5:** Updated jQueryUI and made it compatible with Symphony 2.3.3 and higher. 
 - **1.4:** Updated for Symphony 2.3.
 - **1.3:** Changes by [kanduvisla](http://github.com/kanduvisla/) to make CSS compatible with Symphony 2.2
 - **1.2:** Added .repeatingdate selector to initialise JS.

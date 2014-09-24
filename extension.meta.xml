@@ -14,7 +14,7 @@
 	</authors>
 	<releases>
 	        <release version="1.5" date="2014-09-24" min="2.3.3">
-	        	- update jqueryui
+	        	- updated to jqueryui v.1.11.1
 	        	- moved location of javascript in head so it won't conflict with preferences page.
 	        </release>
 		<release version="1.4" date="2012-05-08" min="2.3" />

@@ -2,7 +2,7 @@
 
 Version: 1.5  
 Author: Max Wheeler (max@makenosound.com) / Symphonists  
-Build Date: 2014-09-24
+Build Date: 2014-09-24  
 Requirements: Symphony 2.3.3 and higher
 
 Automatically enables the [jQuery Date Picker](http://docs.jquery.com/UI/Datepicker) on the "Publish" screen in the Symphony administration.
